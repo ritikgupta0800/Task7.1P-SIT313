@@ -1,0 +1,29 @@
+/* Update the header styles */
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Change to 'space-between' to evenly distribute space between elements */
+    align-items: center; /* Center the items vertically */
+    width: 100%;
+}
+
+/* Update the heading styles */
+.heading {
+    width: 30%;
+    text-align: start; /* This is not necessary as it's the default value */
+}
+
+.heading h1 {
+    font-size: 2rem; /* Change to '2rem' for a more standardized and responsive font size */
+    margin: 0; /* Remove default margin to avoid extra spacing */
+}
+
+/* Update the search styles */
+.search {
+    width: 50%;
+}
+
+/* Update the header-right styles */
+.header-right {
+    width: max-content;
+}

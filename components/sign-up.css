@@ -1,0 +1,17 @@
+.sign-up {
+    width: 100%; /* Set width to fill the parent container */
+    max-width: 400px; /* Added a maximum width for better responsiveness */
+    margin: 0 auto; /* Center the sign-up form horizontally */
+    background-color: #007BFF; /* Changed background color to a different shade */
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px; /* Increased border-radius for more rounded corners */
+    text-align: center;
+    font-size: 20px; /* Increased font size for emphasis */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5); /* Increased the box shadow for a stronger effect */
+}
+
+/* Add hover effect for a button-like appearance */
+.sign-up:hover {
+    background-color: #0056b3;
+}

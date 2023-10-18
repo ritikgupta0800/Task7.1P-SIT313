@@ -1,0 +1,25 @@
+
+
+  body {
+    background-color: #f1f1f1; /* Changed background color to a different shade */
+    font-family: Arial, sans-serif; /* Added a preferred font family */
+  }
+  
+  .page-login {
+    margin-top: 50px; /* Increased the top margin for more spacing */
+    text-align: center; /* Center-align the content within .page-login */
+  }
+  
+  .App {
+    width: 100%; /* Set the width to 100% to fill the parent container */
+    max-width: 800px; /* Added a maximum width to .App */
+    margin: 0 auto; /* Center .App horizontally with margin: 0 auto; */
+    padding: 20px; /* Added padding for spacing inside .App */
+    background-color: #fff; /* Added a white background color */
+    border: 1px solid #ddd; /* Added a border for the .App container */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Added a subtle box shadow */
+    text-align: left; /* Align content within .App to the left */
+    font-size: 16px; /* Adjusted font size for better readability */
+    color: #333; /* Set the text color */
+  }
+  
